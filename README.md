@@ -1,10 +1,10 @@
 # js_exercise_printPattern_prime_number
 
 # Your number grade 71.9 in letter is C
-//#
-//##
-//###
-<!-- ####
+#
+##
+###
+####
 #####
 ######
 #######
@@ -28,4 +28,4 @@
 17 is a prime number and odd
 18 is a not prime number and even
 19 is a prime number and odd
-20 is a not prime number and even -->
+20 is a not prime number and even
