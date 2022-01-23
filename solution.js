@@ -1,6 +1,16 @@
+//print letter grade corresponding to its number grade
 let grade = (Math.random() * 100).toFixed(1)
 
 console.log(`Your number grade ${grade} in letter is ${grade < 55 ? 'F' : grade < 70 ? 'D' : grade < 80 ? 'C' : grade < 90 ? 'B' : 'A' }`)
+
+//print harsh
+// #
+// ##
+// ###
+// ####
+// #####
+// ######
+// #######
 
 let hash = [];
 for (let i = 1; i <= 7; i++) {
@@ -11,6 +21,7 @@ for (let i = 1; i <= 7; i++) {
 }
 console.log(hash);
 
+//print prime number
 
 for (let number = 1; number < 21; number++)
 { 
